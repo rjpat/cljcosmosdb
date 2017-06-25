@@ -1,0 +1,11 @@
+*.jar
+.n*
+*.iml
+log/
+target
+clojure.iws
+clojure.ipr
+nbproject/private/
+maven-classpath
+maven-classpath.properties
+.idea/
